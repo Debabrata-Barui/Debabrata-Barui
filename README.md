@@ -22,7 +22,7 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 - Good Knowledge of V-Motion, Server Migration, HA
 - Good Knowledge of iSCSI Storage, SAN Storage, NAS Storage, Datastore:- 
 
-👋 LINUX SKILLS:-
+👀 LINUX SKILLS:-
 -------------------
 1. Experience in Package Management using YUM and APT-GET.
 2. Installation & configuration and administration of different Linux OS flavors like (Centos, Ubuntu) and
@@ -123,6 +123,15 @@ Restriction on basis of Company).
 - Fix the No Signal Issue 
 - Fix issue of System Battery Voltage is Low error
 - Fix the “Your Windows license will expire soon” error 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👋 DECLARATION:-
+------------------
+I solemnly declare that all the above information is correct to the bed of my knowledge and belief.
+
+
+
 
 <!---
 Debabrata-Barui/Debabrata-Barui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
