@@ -1,4 +1,6 @@
-🌱 Objective:- To apply the best business principles, creative solutions, and ongoing skill development to become a valuable DevOps Engineer who contributes to the success of an organization.
+🌱 OBJECTIVE:- 
+---------------
+To apply the best business principles, creative solutions, and ongoing skill development to become a valuable DevOps Engineer who contributes to the success of an organization.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
