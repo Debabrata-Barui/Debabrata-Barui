@@ -1,3 +1,12 @@
+👀 DEVOPS SKILLS:-
+------------------
+- Git, GitHub
+- Jenkins
+- Ansible
+- Chef
+- Docker
+- K8
+- 
 👋 LINUX SKILLS:-
 -------------------
 1. Experience in Package Management using YUM and APT-GET.
@@ -76,16 +85,27 @@ Restriction on basis of Company).
 11. Configuration of Load Balancer and Auto Scaling
 12. RDS Configuration
  
-👀 DEVOPS SKILLS:-
-------------------
-- Git, GitHub
-- Jenkins
-- Ansible
-- Chef
-- Docker
-- K8
 
-️ 
+👀 WINDOWS TROUBLESHOOTING:-
+----------------------------
+- Fix the Blue Screen Of death
+- Fix the black screen problem after login 
+- Fix the black screen problem before login
+- Fix the Networking issue
+- Fix the low disk space issue
+- Data recover from crashed computer
+- Fix the slow run windows problem
+- Creating Disk Partition
+- Merging the Disk Partition
+- Fix unable to activate windows 
+- Stop the auto update of windows 
+- Fix the VMware Error Like -14: Pipe connection has been broken.
+- Fix Monitor flickering problem
+- Fix the loud noise of fan and CPU
+- Fix the No Signal Issue 
+- Fix issue of System Battery Voltage is Low error
+- Fix the “Your Windows license will expire soon” error 
+
 <!---
 Debabrata-Barui/Debabrata-Barui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
