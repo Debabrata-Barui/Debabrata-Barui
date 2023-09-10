@@ -1,8 +1,8 @@
-- 👋 Hi Guys, My name is  Debabrata Barui. I am SAP ABAP Developer. I have 6 months Training in SAP ERP-ABAP Programing from "The-Interface Pvt Ltd" institute in kolkata.
+- 👋 Hi Guys, My name is  Debabrata Barui. I am a DevOps Engineer. 
  
-- 🌱Currently I am working in maventic company. It is a SAP software development company and I joint here as a trainee for 6 months. After completing my 6 months training I will be a permanent developer in this company and i would like to become a professional developer in this field.
+- 🌱Currently I am working at Maventic company. It is an SAP software development company and I joined here as a trainee for 6 months. After completing my 6 months of training I will be a permanent developer in this company and I would like to become a professional developer in this field.
 
-- 👀  I want to learn everything about sap software development and In future I want to achieve a big position in reputed company like google, microsoft.  
+- 👀 I want to achieve a big position in a reputed company like Google or Microsoft.  
  
 - 📄 https://cutt.ly/AUbr4BE
 ️ 
