@@ -20,7 +20,8 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 - Good Knowledge of V-Center
 - Good Knowledge of Claster Creation
 - Good Knowledge of V-Motion, Server Migration, HA
-- Good Knowledge of iSCSI Storage, SAN Storage, NAS Storage, Datastore:- 
+- Good Knowledge of iSCSI Storage, SAN Storage, NAS Storage, Datastore
+- Good Knowledge in RAID Technology 
 
 👀 LINUX SKILLS:-
 -------------------
