@@ -6,7 +6,16 @@
 - Chef
 - Docker
 - K8
-- 
+- Python Automation 
+
+👀 VMWARE SKILLS:-
+-------------------
+- Good Knowledge of Bare Metal Virtualization(ESXI-Host)
+- Good Knowledge of V-Center
+- Good Knowledge of Claster Creation
+- Good Knowledge of V-Motion, Server Migration, HA
+- Good Knowledge of iSCSI Storage, SAN Storage, NAS Storage, Datastore:- 
+
 👋 LINUX SKILLS:-
 -------------------
 1. Experience in Package Management using YUM and APT-GET.
@@ -84,6 +93,9 @@ Restriction on basis of Company).
 10. Configure IAM (Identity and Access Management) Users and Create the Policies according to the user.
 11. Configuration of Load Balancer and Auto Scaling
 12. RDS Configuration
+13. Load Balancer Configuration
+14. Auto Scaling Configuration
+15. Route-53 DNS Configuration 
  
 
 👀 WINDOWS TROUBLESHOOTING:-
