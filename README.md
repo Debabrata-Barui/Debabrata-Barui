@@ -1,3 +1,7 @@
+🌱 Objective:- To apply the best business principles, creative solutions, and ongoing skill development to become a valuable DevOps Engineer who contributes to the success of an organization.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👀 DEVOPS SKILLS:-
 ------------------
 - Git, GitHub
@@ -45,7 +49,7 @@ Windows servers.
 24. Good Knowledge of Firewalld Daemon on centos
 25. Good Knowledge of SELinux
  
-🌱 WINDOWS SKILLS:-
+👀 WINDOWS SKILLS:-
 --------------------
 1. Installation and configuration of Windows Server 2019, Windows 7/8/10/11
 2. Create users and set the password in Windows
