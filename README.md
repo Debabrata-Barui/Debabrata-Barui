@@ -14,43 +14,144 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 - K8
 - Python Automation 
 
+👀 Networking Tool:-
+----------------------
+1. Fortigate Firewall:- 
+	a) Good knowledge on Creating VLAN, Interface, Virtual Switch 
+	b) Good knowledge on making Security Policy according to the requirements 
+	c) DMZ, Bridge Mode Connection on Leased line 
+	d) SSL VPN, IPSec VPN 
+	e) Good Knowledge on Site to Site VPN 
+	f) Split Tunneling
+	g) GCP to Fortigate Connections by IPSec Tunnel 
+	h) Experience on Fortigate SSO
+	i) Experience on Fortigate with LDAP 
+	j) Experience on DHCP and IP Reservation by MAC 
+	k) Experience on Fortigate Monitoring Dashboard 
+
+2. Good Knowledge on -- 
+	- FIM(File Integration Monitoring),
+	- DLP(Data Loss Prevention),
+	- IDS(Intrusion Detection System), 
+	- Log Shipping
+	- Log Monitoring
+
+3. Good Experience on Wazuh Monitoring Tool
+
+4. Good Experience on Zeek Monitoring Tool for FIM
+
+👀 AWS SKILLS:-
+----------------
+1. Creation of EC2 instances in Elastic Load balancer in multiple Availability zones in AWS
+2. SSH Connection through Putty Tool
+3. Creation of VPC and Multiple Private and Public Subnets within different Availability Zone.
+4. Creation and management of Security Group, NACLs.
+5. VPN Configuration to access private subnet
+6. NAT Gateway and NAT Instance Configuration with Private Subnet
+7. Creating and managing S3 buckets–copying data to S3, bucket versioning, Hosting static website on S3.
+8. Configuration of Route53
+9. Managing AMI Backups and Snapshots.
+10. Configure IAM (Identity and Access Management) Users and Create the Policies according to the user.
+11. Configuration of Load Balancer and Auto Scaling
+12. RDS Configuration
+13. Load Balancer Configuration
+14. Auto Scaling Configuration
+15. Route-53 DNS Configuration
+16. Experience in Serverless Computing(Lamda)
+
+
+👀 Google Workspace:-
+-----------------------
+1. Create Organization Account and Connect with Domain Manager 
+2. User Creations 
+3. OU Creations and Management 
+4. CAA(Context Aware Access) Policy Creation 
+5. Policy Setup on OU
+7. Configure the G-Suite with the Office Network and define the policy 
+8. Third Party IDP SSO Configuration on SAML with OKTA and Cloudflare Zero Trust SAAS Application 
+9. Congratulations experience on Hybrid Cloud Infrastructure 
+
+👀 GCP(Google Cloud Platform):-
+---------------------------------
+1. Compute Engine :-
+	- VM Creation
+	- Disk Management
+	- Image Creation
+	- Snapshots Creation
+	
+2. VPC Design :-
+	- Public Subnet Creation
+	- Private Subnet Creation
+
+3. Load Balancer Creation
+4. Experience in NAT		
+5. Cloud Storage 
+6. IAM on Organization Account
+7. Good Knowledge on ACM(Access Context Management)
+8. Good Knowledge on Context Aware Access(CAA)
+   
+
 👀 VMWARE SKILLS:-
 -------------------
-- Good Knowledge of Bare Metal Virtualization(ESXI-Host)
-- Good Knowledge of V-Center
-- Good Knowledge of Claster Creation
-- Good Knowledge of V-Motion, Server Migration, HA
-- Good Knowledge of iSCSI Storage, SAN Storage, NAS Storage, Datastore
+- Good Knowledge on Hypervisor Type-1(Bare Metal Virtualization) by VMWARE ESXI Host
+- Clustering of ESXI Host by vmware vsphere 
+- Good Knowledge on Template Creation
+- Taking Snapshots of ESXi
+- Google Knowledge on Share Storage -- SAN, LUN, NAS, I-SCSI
+- Have knowledge on Vmware Networking  -- Port Group, VSwitch, Firewall Rule, 
+- Good knowledge of different Migration Technique -- Cold Migration, Suspended Migration, VMotion(Live Migration)
+- Good Knowledge of Baremetal Backups, 
 - Good Knowledge in RAID Technology 
+
+👀 Cloudflare Content Delivery network Knowledge :--
+------------------------------------------------------
+- Domain Configuration on Cloudflare
+- Good knowledge about Edge Server and Origin Server
+- Knowledge of Proxy and SSL Certificate Configuration for the Web Application
+- Increase the throughput of the web app by caching in cloudflare
+- Subdomain Creation
+- Good Experience cloudflare Zero-Trust Turbo Tunnel
+- Configuration the On-Premises network with the Zero-Trust Tunnel
+- Configuration of WARP VPN for Accessing the On-premises resources form outside of the network
+- Secure WARP VPN connection by by sending OTP in email
+- Expose the Local Network Application through the Zero-Trust over the Internet with high security by using self-hosted application
+- Make policy like - Allow access for certain IP, OTP, MFA ...
 
 👀 LINUX SKILLS:-
 -------------------
-1. Experience in Package Management using YUM and APT-GET.
-2. Installation & configuration and administration of different Linux OS flavors like (Centos, Ubuntu) and
-Windows servers.
-3. Installing and configuration of Httpd/Apache2 Server, Nginx, Apache Tomcat Server
-4. Installing and configuration of Mysql.
-5. Experience to make and maintain different users and group in Linux
-6. Troubleshooting high CPU, Memory, Disk related issues.
-7. LVM Configuration
-8. NFS Configuration
-9. Network Configuration(TCP/IP)
-10. SAMBA Share File Configuration between Linux to Windows
-11. Desktop Environment - GNOME Configuration, MATE Configuration
-12. Installation & Configuration of Virtual Box on CentOS 7
-13. Have knowledge of Configuration of XAMPP Server on CentOS 7 and AWS Linux
-14. Have good knowledge of Linux File System
-15. Have good knowledge of Linux Booting process
-16. Have knowledge to create users and group and set password in Linux
-17. SSH Connection through Putty Tool
-18. Process Management, Disk Management, User Management
-19. File Management
-20. SWAP Memory Management
-21. Good Knowledge of Text Editor(VIM, GEDIT, NANO)
-22. Have good knowledge of Task Scheduling(AT, CRONTAB)
-23. Good knowledge of Runlevel/Target
-24. Good Knowledge of Firewalld Daemon on centos
-25. Good Knowledge of SELinux
+1. Experience in Package Management using YUM, DNF and APT
+2. Installation & configuration and administration of different Linux OS flavors like (Redhat,Fedora,Centos, Kali, Mint, Ubuntu) and Windows servers
+3. Installing and configuration of httpd/Apache2 Server, Nginx, Apache Tomcat Server 
+4. Managing customers websites and providing them support 24*7
+5. Installing/Renewing SSL certificates for customers' managed websites.
+6. Installing and configuration of Mysql, NDBCLUSTER, MS-SQL Server 
+7. Experience to make different users in Linux 
+8. Troubleshooting high CPU, Memory, Disk related issues.
+9. Experience in NFS and SAMBA Configuration to data sharing
+10. GNOME Desktop Configuration 
+11. Installation & Configuration of Virtual Box on CentOS 7 
+12. Have knowledge of Configuration of XAMPP Server on CentOS 7 and AWS Linux
+13. Have knowledge to create users and group and set password in Linux 
+14. Experience in VSFTP Server and FTP Client Configuration
+15. Good experience in RAID Technology(Data Striping, Data Parity, Data Mirroring)
+16. Good Knowledge of Shell Scripting
+17. Good Knowledge of Robotic Process Automation
+18. Daily task automated by Cron job Scheduler
+19. Basic Scripting knowledge of Python, Nodejs
+20. Have Knowledge of Python Django, Angular-15 to 17 File Structure
+21. Building and Compiling the C++ program by make automation tool
+22. Configure the Opensource Mod_Security WAF(Web Application Firewall) and White List the IPs
+23. SSH Connection through Putty Tool
+24. Process Management, Disk Management, User Management
+25. File Management
+26. SWAP Memory Management
+27. Good Knowledge of Text Editor(VIM, GEDIT, NANO)
+28. Have good knowledge of Task Scheduling(AT, CRONTAB)
+29. Good knowledge of Runlevel/Target
+30. Good Knowledge of Firewalld Daemon on centos
+31. Good Knowledge of SELinux
+32. Have good knowledge of Linux Booting process
+33. Network Configuration(TCP/IP)
  
 👀 WINDOWS SKILLS:-
 --------------------
@@ -84,26 +185,7 @@ Restriction on basis of Company).
 26. Configure the TCP/IPV4 Protocol
 27. Basic knowledge on Remote control tools such as RDP, Anydesk and Team Viewers.
 28. Increase the CPU Performance by Hyper-Threading Technique
-29. Setup the Projector with the computer
-
-👀 AWS SKILLS:-
-----------------
-1. Creation of EC2 instances in Elastic Load balancer in multiple Availability zones in AWS
-2. SSH Connection through Putty Tool
-3. Creation of VPC and Multiple Private and Public Subnets within different Availability Zone.
-4. Creation and management of Security Group, NACLs.
-5. VPN Configuration to access private subnet
-6. NAT Gateway and NAT Instance Configuration with Private Subnet
-7. Creating and managing S3 buckets–copying data to S3, bucket versioning, Hosting static website on S3.
-8. Configuration of Route53
-9. Managing AMI Backups and Snapshots.
-10. Configure IAM (Identity and Access Management) Users and Create the Policies according to the user.
-11. Configuration of Load Balancer and Auto Scaling
-12. RDS Configuration
-13. Load Balancer Configuration
-14. Auto Scaling Configuration
-15. Route-53 DNS Configuration 
- 
+29. Setup the Projector with the computer 
 
 👀 WINDOWS TROUBLESHOOTING:-
 ----------------------------
