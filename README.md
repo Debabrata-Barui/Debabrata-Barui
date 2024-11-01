@@ -103,8 +103,8 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 - Good Knowledge of Baremetal Backups, 
 - Good Knowledge in RAID Technology 
 
-👀 Cloudflare Content Delivery network Knowledge :--
-------------------------------------------------------
+👀 Cloudflare Content Delivery network Knowledge :-
+----------------------------------------------------
 - Domain Configuration on Cloudflare
 - Good knowledge about Edge Server and Origin Server
 - Knowledge of Proxy and SSL Certificate Configuration for the Web Application
