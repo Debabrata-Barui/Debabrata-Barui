@@ -17,7 +17,7 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 👀 Networking Tool:-
 ----------------------
 1. Fortigate Firewall:- 
-	- Good knowledge on Creating VLAN, Interface, Virtual Switch 
+    	- Good knowledge on Creating VLAN, Interface, Virtual Switch 
 	- Good knowledge on making Security Policy according to the requirements 
 	- DMZ, Bridge Mode Connection on Leased line 
 	- SSL VPN, IPSec VPN 
@@ -36,7 +36,7 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 	- Log Shipping
 	- Log Monitoring
 
-3. Good Experience on Wazuh Monitoring Tool
+3. Good Experience on Wazuh, Zabbix, Grafana Monitoring Tool
 
 4. Good Experience on Zeek Monitoring Tool for FIM
 
