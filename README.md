@@ -17,17 +17,17 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 👀 Networking Tool:-
 ----------------------
 1. Fortigate Firewall:- 
-	a) Good knowledge on Creating VLAN, Interface, Virtual Switch 
-	b) Good knowledge on making Security Policy according to the requirements 
-	c) DMZ, Bridge Mode Connection on Leased line 
-	d) SSL VPN, IPSec VPN 
-	e) Good Knowledge on Site to Site VPN 
-	f) Split Tunneling
-	g) GCP to Fortigate Connections by IPSec Tunnel 
-	h) Experience on Fortigate SSO
-	i) Experience on Fortigate with LDAP 
-	j) Experience on DHCP and IP Reservation by MAC 
-	k) Experience on Fortigate Monitoring Dashboard 
+	- Good knowledge on Creating VLAN, Interface, Virtual Switch 
+	- Good knowledge on making Security Policy according to the requirements 
+	- DMZ, Bridge Mode Connection on Leased line 
+	- SSL VPN, IPSec VPN 
+	- Good Knowledge on Site to Site VPN 
+	- Split Tunneling
+	- GCP to Fortigate Connections by IPSec Tunnel 
+	- Experience on Fortigate SSO
+	- Experience on Fortigate with LDAP 
+	- Experience on DHCP and IP Reservation by MAC 
+	- Experience on Fortigate Monitoring Dashboard 
 
 2. Good Knowledge on -- 
 	- FIM(File Integration Monitoring),
