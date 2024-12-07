@@ -12,7 +12,10 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 - Chef
 - Docker
 - K8
-- Python Automation 
+- Python Automation
+- NodeJS
+- Shell Script
+- Experienced in GPU Parallel Computing by cuDNN Library
 
 👀 Networking Tool:-
 ----------------------
