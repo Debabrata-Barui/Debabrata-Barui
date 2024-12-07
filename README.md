@@ -30,7 +30,10 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 	- Experience on Fortigate SSO
 	- Experience on Fortigate with LDAP 
 	- Experience on DHCP and IP Reservation by MAC 
-	- Experience on Fortigate Monitoring Dashboard 
+	- Experience on Fortigate Monitoring Dashboard
+	- Configure DUO Authentication Proxy with FortiGate Firewall as a RADIUS Server
+	- Configure 2 Different OTP Validation Machanism  in Fortigate SSL/IPSec VPN as well as FortiGate Firewall Web Interface
+	- FortiGate RESTAPI Handling from Postman
 
 2. Good Knowledge on -- 
 	- FIM(File Integration Monitoring),
