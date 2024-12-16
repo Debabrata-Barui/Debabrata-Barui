@@ -45,6 +45,7 @@ To apply the best business principles, creative solutions, and ongoing skill dev
 3. Good Experience on Wazuh, Zabbix, Grafana Monitoring Tool
 
 4. Good Experience on Zeek Monitoring Tool for FIM
+5. Experience on WAF(Web Application Firewall) -- Open Source WAF – Mod-Security
 
 👀 AWS SKILLS:-
 ----------------
